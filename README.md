@@ -44,4 +44,4 @@ kubectl delete -f k8/nginx-deploy.yaml
 kubectl delete -f k8/nginx-service.yaml
 ```
 
-See `Week11-DevOps-Lab-Report.docx` and `.pdf` for the command descriptions and observed results. The `evidence` folder is reserved for original terminal screenshots captured by the student.
+See Week11-DevOps-Lab-Report-Final.docx for command descriptions, observed results, and rendered command-output evidence. The evidence images are explicitly labeled as rendered captures rather than raw terminal screenshots.
